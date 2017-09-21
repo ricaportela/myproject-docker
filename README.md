@@ -25,6 +25,6 @@ Getting Started
 # Docker
 * shoud be completed
 
-### Deploy ###
+# Deploy
 * should be Completed
 
